@@ -1,0 +1,17 @@
+img {
+    width: 12%;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 1.7rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
